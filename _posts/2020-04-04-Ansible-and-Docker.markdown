@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ansible and docker"
+title:  "Setting up an automation environment"
 date:   2020-04-04 22:14:39 +0100
 categories: jekyll update
 ---
